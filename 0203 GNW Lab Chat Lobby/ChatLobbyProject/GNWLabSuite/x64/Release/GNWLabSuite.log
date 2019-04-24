@@ -1,0 +1,40 @@
+﻿  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\hud_frag.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\hud_frag.cso
+  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\hud_vert.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\hud_vert.cso
+  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\pixelated_frag.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\pixelated_frag.cso
+  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\pixelated_vert.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\pixelated_vert.cso
+  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\screen_frag.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\screen_frag.cso
+  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\screen_vert.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\screen_vert.cso
+  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\sprite_sheet_frag.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\sprite_sheet_frag.cso
+  compilation header save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\GNWLabSuite\sprite_sheet_vert.csh
+  compilation object save succeeded; see D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\sprite_sheet_vert.cso
+  ChatLobby.cpp
+  D3DInterface.cpp
+  main.cpp
+main.cpp(111): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  MainMenu.cpp
+  NetDefines.cpp
+  TCPChatClient.cpp
+  TCPChatServer.cpp
+TCPChatServer.cpp(22): warning C4305: 'return': truncation from 'SOCKET' to 'bool'
+TCPChatServer.cpp(32): warning C4305: 'return': truncation from 'int' to 'bool'
+TCPChatServer.cpp(38): warning C4305: 'return': truncation from 'int' to 'bool'
+TCPChatServer.cpp(59): warning C4305: 'return': truncation from 'SOCKET' to 'bool'
+  XTime.cpp
+  Generating code
+  All 2019 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+DirectXTK64.lib(CommonStates.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK64.lib(CommonStates.obj)' or at 'D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK64.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK64.lib(DDSTextureLoader.obj)' or at 'D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK64.lib(BinaryReader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK64.lib(BinaryReader.obj)' or at 'D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK64.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK64.lib(pch.obj)' or at 'D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK64.lib(SpriteBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK64.lib(SpriteBatch.obj)' or at 'D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK64.lib(SpriteFont.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK64.lib(SpriteFont.obj)' or at 'D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK64.lib(VertexTypes.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK64.lib(VertexTypes.obj)' or at 'D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+  GNWLabSuite.vcxproj -> D:\FullSail\Month 16\Game Networking\Labs\0203 GNW Lab Suite Chat1510\0203 GNW Lab Suite Chat1510\GNWLabSuite\x64\Release\GNWLabSuite.exe

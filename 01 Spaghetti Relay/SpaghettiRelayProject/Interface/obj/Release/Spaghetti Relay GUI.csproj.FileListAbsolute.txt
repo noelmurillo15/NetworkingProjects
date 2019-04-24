@@ -1,0 +1,16 @@
+E:\Full Sail\Month 16\Game Networking\Labs\01 Spaghetti Relay\Project 2010\Release\Spaghetti Relay GUI.exe
+E:\Full Sail\Month 16\Game Networking\Labs\01 Spaghetti Relay\Project 2010\Release\Spaghetti Relay GUI.pdb
+E:\Full Sail\Month 16\Game Networking\Labs\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti_Relay_GUI.Properties.Resources.resources
+E:\Full Sail\Month 16\Game Networking\Labs\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Message_Relay_GUI.SpaghettiForm.resources
+E:\Full Sail\Month 16\Game Networking\Labs\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.csproj.GenerateResource.Cache
+E:\Full Sail\Month 16\Game Networking\Labs\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.exe
+E:\Full Sail\Month 16\Game Networking\Labs\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.pdb
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Release\Spaghetti Relay GUI.exe
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Release\Spaghetti Relay GUI.pdb
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.csprojAssemblyReference.cache
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti_Relay_GUI.Properties.Resources.resources
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Message_Relay_GUI.SpaghettiForm.resources
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.exe
+D:\Projects\VisualStudio\01 Spaghetti Relay\Project 2010\Interface\obj\Release\Spaghetti Relay GUI.pdb

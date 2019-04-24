@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Shared Files">
+      <UniqueIdentifier>{98ec8616-b904-4700-a5fb-9e942d06e4de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server Files">
+      <UniqueIdentifier>{f05e4204-bbaa-41b6-8419-81a6292271fa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="definitions.h">
+      <Filter>Shared Files</Filter>
+    </ClInclude>
+    <ClInclude Include="platform.h">
+      <Filter>Shared Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdint.h">
+      <Filter>Shared Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Server\Server.h">
+      <Filter>Server Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Server\ServerWrapper.h">
+      <Filter>Server Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="platform.cpp">
+      <Filter>Shared Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Server\Server.cpp">
+      <Filter>Server Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Server\ServerWrapper.cpp">
+      <Filter>Server Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
